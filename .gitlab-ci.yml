@@ -1,6 +1,6 @@
---- 
-DemandeDevid_job: 
-  script: 
-    - "echo Firt Page Test"
-  tags: 
+build-job:
+  stage: build
+  tags:
     - ci
+  script:
+    - mvn test
