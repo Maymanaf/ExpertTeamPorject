@@ -1,4 +1,4 @@
-Baganda-job:
+DemandeDevis-job:
   stage: test
   tags:
     - ci
