@@ -1,5 +1,5 @@
-job-job:
-  stage: job
+build-job:
+  stage: build
   tags:
     - ci
   script:
