@@ -1,6 +1,7 @@
-DemandeDeviss-job:
+ImproveSW-job:
   stage: test
   tags:
     - ci
   script:
-    - mvn clean test
+    # mvn  test
+    - echo Job executed
