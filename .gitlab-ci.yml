@@ -1,6 +1,6 @@
-build-job:
-  stage: build
+Baganda-job:
+  stage: test
   tags:
     - ci
   script:
-    - mvn test
+    - mvn clean test
