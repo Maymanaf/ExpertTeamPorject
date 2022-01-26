@@ -1,0 +1,6 @@
+--- 
+DemandeDevid_job: 
+  script: 
+    - "echo Firt Page Test"
+  tags: 
+    - ci
