@@ -71,7 +71,7 @@ public class DevisTest extends Base{
 		PageObjectDevis.getSendButton().click();
 		Reporter.log("Send button is clicked",true);
 
-		Assert.assertEquals(1,PageObjectDevis.getErrorX().size(),"Element(s) is not selected");
+		Assert.assertEquals(2,PageObjectDevis.getErrorX().size(),"Element(s) is not selected");
 	}
 
 	@Test(priority =1)
