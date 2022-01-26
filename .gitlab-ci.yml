@@ -1,4 +1,4 @@
-DemandeDevis-job:
+DemandeDeviss-job:
   stage: test
   tags:
     - ci
