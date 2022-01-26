@@ -68,7 +68,7 @@ public class DevisTest extends Base{
 		//waitClick .until(ExpectedConditions.elementToBeClickable(PageObjectDevis.getRecaptchaBox())).click();
 		//Reporter.log("The captcha checkbox is clicked",true);
 		//waitClick .until(ExpectedConditions.elementToBeClickable(PageObjectDevis.getSendButton())).click();
-		PageObjectDevis.getSendButton();
+		PageObjectDevis.getSendButton().click();
 		Reporter.log("Send button is clicked",true);
 
 		Assert.assertEquals(1,PageObjectDevis.getErrorX().size(),"Element(s) is not selected");
