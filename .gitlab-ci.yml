@@ -3,4 +3,4 @@ Baganda-job:
   tags:
     - ci
   script:
-    - mvn test
+    - echo Hello
