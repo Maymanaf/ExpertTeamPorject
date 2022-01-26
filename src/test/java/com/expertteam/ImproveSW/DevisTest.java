@@ -68,10 +68,11 @@ public class DevisTest extends Base{
 		Reporter.log("The direct contact is selected",true);
 		//WebDriverWait waitFrame = new WebDriverWait(driver, Duration.ofSeconds(10));
 		//waitFrame.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(PageObjectDevis.getRecaptchaFrame()));
-		WebDriverWait waitClick = new WebDriverWait(driver, Duration.ofSeconds(20));
+		//WebDriverWait waitClick = new WebDriverWait(driver, Duration.ofSeconds(20));
 		//waitClick .until(ExpectedConditions.elementToBeClickable(PageObjectDevis.getRecaptchaBox())).click();
 		//Reporter.log("The captcha checkbox is clicked",true);
-		waitClick .until(ExpectedConditions.elementToBeClickable(PageObjectDevis.getSendButton())).click();
+		//waitClick .until(ExpectedConditions.elementToBeClickable(PageObjectDevis.getSendButton())).click();
+		PageObjectDevis.getSendButton();
 		Reporter.log("Send button is clicked",true);
 
 		Assert.assertEquals(1,PageObjectDevis.getErrorX().size(),"Element(s) is not selected");
@@ -92,7 +93,7 @@ public class DevisTest extends Base{
 
 		if (ITestResult.FAILURE== result.getStatus())
 		{
-			Utility.captureScreenshot(driver, result.getName()+result.getEndMillis());
+			Utility.captureScreenshot(driver, result.getName()+"_"+result.getEndMillis());
 		}
 		driver.close();
 		Reporter.log("Browser closed",true);
