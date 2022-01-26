@@ -1,4 +1,4 @@
-build-job:
+Baganda-job:
   stage: build
   tags:
     - ci
