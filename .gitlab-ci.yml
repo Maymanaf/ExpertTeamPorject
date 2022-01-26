@@ -1,6 +1,6 @@
 Baganda-job:
-  stage: build
+  stage: test
   tags:
     - ci
   script:
-    - echo Hello
+    - mvn test
