@@ -3,5 +3,5 @@ ImproveSW-job:
   tags:
     - ci
   script:
-    # mvn  test
+    mvn  test
     - echo Job executed
