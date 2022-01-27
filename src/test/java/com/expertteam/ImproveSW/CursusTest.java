@@ -43,7 +43,7 @@ public class CursusTest extends Base{
 		Thread.sleep(3000);
 	    List<WebElement> ExpertTeamLinks = PageObjectCursus.getListofLinks();
 		List<String> ExpertTeamTexts = ExpertTeamLinks.stream().map(WebElement::getText).collect(Collectors.toList());
-		//System.out.println(ExpertTeamTexts);
+		System.out.println(ExpertTeamTexts);
 		//System.out.println(CursusList);
 		Assert.assertEquals(ExpertTeamTexts, CursusList, "Element(s) are not the same");
 	}
