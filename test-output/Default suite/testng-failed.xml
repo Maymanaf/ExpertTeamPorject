@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.expertteam.ImproveSW.CursusTest">
+      <class name="com.expertteam.ImproveSW.FormationTest">
         <methods>
-          <include name="tearDown"/>
-          <include name="SelectElementofNosCursusTest"/>
+          <include name="formationLink"/>
           <include name="setUpChrome"/>
+          <include name="tearDown"/>
         </methods>
-      </class> <!-- com.expertteam.ImproveSW.CursusTest -->
+      </class> <!-- com.expertteam.ImproveSW.FormationTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

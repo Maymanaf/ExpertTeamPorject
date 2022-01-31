@@ -15,8 +15,8 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 public class CursusTest extends Base{
-	
-	
+
+
 	private static CursusPO PageObjectCursus;
 
 	private static List<String> CursusList = Arrays.asList("Testeur logiciel et automatisation", "Testeur Automaticien","Développeur Full stack JS", "Développeur Applications Mobiles", "UX/UI Designer", "Marketing digital", "Responsable commerciale", "IT Acquisition Talent");
@@ -33,40 +33,94 @@ public class CursusTest extends Base{
 		Reporter.log("Driver got initialized",true);
 
 	}
-	
-	
-	
-	@Test
+
+// Verify the list of elements in "Nos Cursus"
+
+	@Test(priority =0)
 	public void ElementofNosCursusTest() throws Exception {
 		Actions action = new Actions(driver);
 		action.moveToElement(PageObjectCursus.getCursusPage()).build().perform();;
 		Thread.sleep(3000);
-	    List<WebElement> ExpertTeamLinks = PageObjectCursus.getListofLinks();
+		List<WebElement> ExpertTeamLinks = PageObjectCursus.getListofLinks();
 		List<String> ExpertTeamTexts = ExpertTeamLinks.stream().map(WebElement::getText).collect(Collectors.toList());
 		System.out.println(ExpertTeamTexts);
 		System.out.println(CursusList);
 		Assert.assertEquals(ExpertTeamTexts, CursusList, "Element(s) are not the same");
 	}
-
-	@Test
-	public void SelectElementofNosCursusTest() throws Exception {
-	    List<WebElement> ExpertTeamLinks = PageObjectCursus.getListofLinks();
+// Verify Testeur logiciel et automatisation page
+	@Test(priority =1)
+	public void SelectTLAofNosCursusTest() throws Exception {
 		Actions action = new Actions(driver);
 		action.moveToElement(PageObjectCursus.getCursusPage()).build().perform();;
 		Thread.sleep(3000);
+		PageObjectCursus.getTesteurLogicielAutomatisation().click();
 		
-		for (WebElement NosCursusLinks : ExpertTeamLinks) {
+//     List<WebElement> ExpertTeamLinks = PageObjectCursus.getListofLinks();
+//		for (WebElement NosCursusLinks : ExpertTeamLinks) {
+//			if (NosCursusLinks.getText().equals("Testeur logiciel et automatisation")) {
+//				NosCursusLinks.click();
+//			}
+//		}
 
-			if (NosCursusLinks.getText().equals("Testeur logiciel et automatisation")) {
-
-				NosCursusLinks.click();
-
-			}
-			
-		}
-
+		PageObjectCursus.getPreInscriptionButton().click();
 	}
-
+	@Test(priority =2)
+	public void SelectTAofNosCursusTest() throws Exception {
+		Actions action = new Actions(driver);
+		action.moveToElement(PageObjectCursus.getCursusPage()).build().perform();;
+		Thread.sleep(3000);
+		PageObjectCursus.getTesteurAutomaticien().click();
+		PageObjectCursus.getPreInscriptionButton().click();
+	}
+	@Test(priority =3)
+	public void SelectDFSofNosCursusTest() throws Exception {
+		Actions action = new Actions(driver);
+		action.moveToElement(PageObjectCursus.getCursusPage()).build().perform();;
+		Thread.sleep(3000);
+		PageObjectCursus.getDevFullStack().click();
+		PageObjectCursus.getPreInscriptionButton().click();
+	}
+	@Test(priority =4)
+	public void SelectDAMofNosCursusTest() throws Exception {
+		Actions action = new Actions(driver);
+		action.moveToElement(PageObjectCursus.getCursusPage()).build().perform();;
+		Thread.sleep(3000);
+		PageObjectCursus.getDevApp().click();
+		PageObjectCursus.getPreInscriptionButton().click();
+	}
+	@Test(priority =5)
+	public void SelectUIUXDofNosCursusTest() throws Exception {
+		Actions action = new Actions(driver);
+		action.moveToElement(PageObjectCursus.getCursusPage()).build().perform();;
+		Thread.sleep(3000);
+		PageObjectCursus.getDesigner().click();
+		PageObjectCursus.getPreInscriptionButton().click();
+	}
+	
+	@Test(priority =6)
+	public void SelectMDofNosCursusTest() throws Exception {
+		Actions action = new Actions(driver);
+		action.moveToElement(PageObjectCursus.getCursusPage()).build().perform();;
+		Thread.sleep(3000);
+		PageObjectCursus.getMarketingDigital().click();
+		PageObjectCursus.getPreInscriptionButton().click();
+	}
+	@Test(priority =7)
+	public void SelectRCosCursusTest() throws Exception {
+		Actions action = new Actions(driver);
+		action.moveToElement(PageObjectCursus.getCursusPage()).build().perform();;
+		Thread.sleep(3000);
+		PageObjectCursus.getMarketingDigital().click();
+		PageObjectCursus.getPreInscriptionButton().click();
+	}
+	@Test(priority =8)
+	public void SelectITATosCursusTest() throws Exception {
+		Actions action = new Actions(driver);
+		action.moveToElement(PageObjectCursus.getCursusPage()).build().perform();;
+		Thread.sleep(3000);
+		PageObjectCursus.getAcquisitionTalent().click();
+		PageObjectCursus.getPreInscriptionButton().click();
+	}
 	@AfterMethod
 
 	public  static void tearDown(ITestResult result) {
