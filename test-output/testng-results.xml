@@ -1,106 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
   <reporter-output>
     <line>
       <![CDATA[Driver got initialized]]>
     </line>
     <line>
+      <![CDATA[Instagram Page is opened]]>
+    </line>
+    <line>
+      <![CDATA[Expert Team Tunisie Instagram page is opened]]>
+    </line>
+    <line>
+      <![CDATA[Instagram Page is closed]]>
+    </line>
+    <line>
       <![CDATA[Browser closed]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-01-31T17:26:42 GMT+01:00" name="Default suite" finished-at="2022-01-31T17:26:57 GMT+01:00" duration-ms="14516">
+  <suite started-at="2022-02-01T17:39:25 GMT+01:00" name="Default suite" finished-at="2022-02-01T17:39:34 GMT+01:00" duration-ms="8201">
     <groups>
     </groups>
-    <test started-at="2022-01-31T17:26:42 GMT+01:00" name="Default test" finished-at="2022-01-31T17:26:57 GMT+01:00" duration-ms="14516">
+    <test started-at="2022-02-01T17:39:25 GMT+01:00" name="Default test" finished-at="2022-02-01T17:39:34 GMT+01:00" duration-ms="8201">
       <class name="com.expertteam.ImproveSW.SocialMediaTest">
-        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.SocialMediaTest@4b0d79fc]" started-at="2022-01-31T17:26:42 GMT+01:00" name="setUpChrome" finished-at="2022-01-31T17:26:53 GMT+01:00" duration-ms="10265" status="PASS">
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.SocialMediaTest@4c1909a3]" started-at="2022-02-01T17:39:25 GMT+01:00" name="setUpChrome" finished-at="2022-02-01T17:39:31 GMT+01:00" duration-ms="5998" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Driver got initialized]]>
             </line>
           </reporter-output>
         </test-method> <!-- setUpChrome -->
-        <test-method signature="SocialMediaHeaderTest()[pri:0, instance:com.expertteam.ImproveSW.SocialMediaTest@4b0d79fc]" started-at="2022-01-31T17:26:53 GMT+01:00" name="SocialMediaHeaderTest" finished-at="2022-01-31T17:26:53 GMT+01:00" duration-ms="22" status="FAIL">
-          <exception class="org.openqa.selenium.InvalidSelectorException">
-            <message>
-              <![CDATA[invalid selector: Unable to locate an element with the xpath expression //div[@id='Action_bar']//a[@title=Facebook'] because of the following error:
-SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[@id='Action_bar']//a[@title=Facebook']' is not a valid XPath expression.
-  (Session info: chrome=97.0.4692.99)
-For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception
-Build info: version: '4.0.0-alpha-5', revision: 'b3a0d621cc'
-System info: host: 'MAYMANAF', ip: '192.168.100.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\meday\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54311}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 67c6248cd36b71f41da7694560429c53
-*** Element info: {Using=xpath, value=//div[@id='Action_bar']//a[@title=Facebook']}]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression //div[@id='Action_bar']//a[@title=Facebook'] because of the following error:
-SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[@id='Action_bar']//a[@title=Facebook']' is not a valid XPath expression.
-  (Session info: chrome=97.0.4692.99)
-For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception
-Build info: version: '4.0.0-alpha-5', revision: 'b3a0d621cc'
-System info: host: 'MAYMANAF', ip: '192.168.100.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\meday\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54311}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 67c6248cd36b71f41da7694560429c53
-*** Element info: {Using=xpath, value=//div[@id='Action_bar']//a[@title=Facebook']}
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)
-at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:196)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:129)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:161)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:582)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:333)
-at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:451)
-at org.openqa.selenium.By$ByXPath.findElement(By.java:394)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:325)
-at PageObject.SocialMediaPO.clickSocialMedia(SocialMediaPO.java:16)
-at com.expertteam.ImproveSW.SocialMediaTest.SocialMediaHeaderTest(SocialMediaTest.java:35)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:564)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:808)
-at org.testng.TestRunner.run(TestRunner.java:603)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
-at org.testng.SuiteRunner.run(SuiteRunner.java:326)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
-at org.testng.TestNG.runSuites(TestNG.java:1092)
-at org.testng.TestNG.run(TestNG.java:1060)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.InvalidSelectorException -->
+        <test-method signature="InstagramHeaderTest()[pri:0, instance:com.expertteam.ImproveSW.SocialMediaTest@4c1909a3]" started-at="2022-02-01T17:39:31 GMT+01:00" name="InstagramHeaderTest" finished-at="2022-02-01T17:39:33 GMT+01:00" duration-ms="1927" status="PASS">
           <reporter-output>
+            <line>
+              <![CDATA[Instagram Page is opened]]>
+            </line>
+            <line>
+              <![CDATA[Expert Team Tunisie Instagram page is opened]]>
+            </line>
+            <line>
+              <![CDATA[Instagram Page is closed]]>
+            </line>
           </reporter-output>
-        </test-method> <!-- SocialMediaHeaderTest -->
-        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.SocialMediaTest@4b0d79fc]" started-at="2022-01-31T17:26:53 GMT+01:00" name="tearDown" finished-at="2022-01-31T17:26:57 GMT+01:00" duration-ms="4202" status="PASS">
+        </test-method> <!-- InstagramHeaderTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.SocialMediaTest@4c1909a3]" started-at="2022-02-01T17:39:33 GMT+01:00" name="tearDown" finished-at="2022-02-01T17:39:34 GMT+01:00" duration-ms="247" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=SocialMediaHeaderTest status=FAILURE method=SocialMediaTest.SocialMediaHeaderTest()[pri:0, instance:com.expertteam.ImproveSW.SocialMediaTest@4b0d79fc] output={null}]]]>
+                <![CDATA[[TestResult name=InstagramHeaderTest status=SUCCESS method=SocialMediaTest.InstagramHeaderTest()[pri:0, instance:com.expertteam.ImproveSW.SocialMediaTest@4c1909a3] output=Instagram Page is opened]]]>
               </value>
             </param>
           </params>

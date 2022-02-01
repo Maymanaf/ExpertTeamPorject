@@ -29,7 +29,7 @@ public class SocialMediaTest extends Base{
 	}
 
 	@Test
-	public void SocialMediaHeaderTest() {
+	public void FacebookHeaderTest() {
 		PageObjectSocialMedia.getFacebookHeader().click();
 		Reporter.log("Facebook Page is opened",true);
 		String mainWindowHandle = driver.getWindowHandle();
@@ -50,6 +50,29 @@ public class SocialMediaTest extends Base{
 			}
 		}
 	}
+	@Test
+	public void InstagramHeaderTest() {
+		PageObjectSocialMedia.getInstagramHeader().click();
+		Reporter.log("Instagram Page is opened",true);
+		String mainWindowHandle = driver.getWindowHandle();
+		Set<String> allWindowHandles = driver.getWindowHandles();
+		Iterator<String> iterator = allWindowHandles.iterator();
+
+		while (iterator.hasNext()) {
+			String ChildWindow = iterator.next();
+			if (!mainWindowHandle.equalsIgnoreCase(ChildWindow)) {
+				driver.switchTo().window(ChildWindow);
+				boolean titleMatch = driver.getTitle().contains("Expert Team Tunisie");
+				if ( titleMatch == true) ;
+				Reporter.log("Expert Team Tunisie Instagram page is opened",true );
+				driver.close();
+				Reporter.log("Instagram Page is closed",true);
+				driver.switchTo().window(mainWindowHandle);
+
+			}
+		}
+	}
+
 
 	@AfterMethod
 
