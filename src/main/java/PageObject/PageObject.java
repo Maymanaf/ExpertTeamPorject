@@ -1,4 +1,4 @@
-package com.expertteam.ImproveSW;
+package PageObject;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;

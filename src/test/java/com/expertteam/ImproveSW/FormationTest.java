@@ -1,7 +1,7 @@
 package com.expertteam.ImproveSW;
 
-import java.io.IOException;
-
+import org.openqa.selenium.By;
+import org.testng.Assert;
 import org.testng.ITestResult;
 import org.testng.Reporter;
 import org.testng.annotations.AfterMethod;
@@ -9,8 +9,12 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-public class FormationTest extends Base{
+import PageObject.FormationPO;
 
+
+
+public class FormationTest extends Base{
+	String currentpath = System.getProperty("user.dir");
 	private static FormationPO PageObjectFormation;
 
 	@BeforeMethod
@@ -23,35 +27,35 @@ public class FormationTest extends Base{
 		//Locators Page
 		PageObjectFormation = new FormationPO(driver);
 		Reporter.log("Driver got initialized",true);
-
+		PageObjectFormation.getFormationPage().click();
 	}
 
 
 	@Test(dataProvider = "FormationData")
-	public static void formationLink(String Domaine, String DomaineTitle, String FormationLink, String FormationTitle) {
-		PageObjectFormation.getFormationPage().click();
-		System.out.println(Domaine + DomaineTitle + FormationLink + FormationTitle);
+	public static void formationLink(String domaine, String domaineTitle, String formationDomaine, String formationTitle) {
+
+
+		System.out.println("Theme de formation ==> "+domaineTitle);
+		driver.get(baseUrl+domaine);
+
+		driver.findElement(By.partialLinkText(formationDomaine.trim())).click();
+
+		PageObjectFormation.getPreInscriptionButton().click();
+
+		Assert.assertEquals("Demander un devis",PageObjectFormation.getTitle().getText());
+		Reporter.log("Le titre correspond avec la page en cours",true);
+
 	}
 
 	@DataProvider(name= "FormationData")
-	public String[][] getData() throws IOException{
 
+	public Object[][] getData() {
 
-		String path=".\\datafiles\\FormationData.xls";
-
-		int rowNum = Utility.getRowCount(path, "Formation");
-		int colNum = Utility.getCellCount(path, "Formation", 1);
-
-		String formationTitle[][]= new String [rowNum][colNum];
-		for(int i=1; i<rowNum;i++) {
-			for(int j=1; j<colNum;j++) {
-				formationTitle[i-1][j]=Utility.getCellData(path, "Formation",i ,j);
-			}
-		}
-
-		return formationTitle;
-
+		String path=currentpath+ "/datafiles/FormationData.xls";
+		Object[][] arrObj = GetExcelData.getExcelData(path, "Formation");
+		return arrObj;
 	}
+
 	@AfterMethod
 
 	public  static void tearDown(ITestResult result) {
