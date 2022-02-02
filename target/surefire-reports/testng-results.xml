@@ -1,0 +1,2753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="48" passed="48" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la liste de cursus]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Quote Page is opened]]>
+    </line>
+    <line>
+      <![CDATA[Particular is selected]]>
+    </line>
+    <line>
+      <![CDATA[Subject to TVA is selected]]>
+    </line>
+    <line>
+      <![CDATA[Curriculum is selected]]>
+    </line>
+    <line>
+      <![CDATA[The number of participants is entered]]>
+    </line>
+    <line>
+      <![CDATA[Intra-Company is selected]]>
+    </line>
+    <line>
+      <![CDATA[Desired Date is setted]]>
+    </line>
+    <line>
+      <![CDATA[The Full Name is setted]]>
+    </line>
+    <line>
+      <![CDATA[The Phone number is setted]]>
+    </line>
+    <line>
+      <![CDATA[The Email address is setted]]>
+    </line>
+    <line>
+      <![CDATA[The job is selected]]>
+    </line>
+    <line>
+      <![CDATA[The Company title is selected]]>
+    </line>
+    <line>
+      <![CDATA[The contact mail is selected]]>
+    </line>
+    <line>
+      <![CDATA[The contact phone is selected]]>
+    </line>
+    <line>
+      <![CDATA[The direct contact is selected]]>
+    </line>
+    <line>
+      <![CDATA[Send button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Quote Page is opened]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Le titre correspond avec la page en cours]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Facebook Page is opened]]>
+    </line>
+    <line>
+      <![CDATA[Expert Team Tunisie facebook page is opened]]>
+    </line>
+    <line>
+      <![CDATA[Facebook Page is closed]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Driver got initialized]]>
+    </line>
+    <line>
+      <![CDATA[Instagram Page is opened]]>
+    </line>
+    <line>
+      <![CDATA[Expert Team Tunisie Instagram page is opened]]>
+    </line>
+    <line>
+      <![CDATA[Instagram Page is closed]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-02-02T10:44:21 GMT+01:00" name="Surefire suite" finished-at="2022-02-02T10:52:07 GMT+01:00" duration-ms="466194">
+    <groups>
+    </groups>
+    <test started-at="2022-02-02T10:44:21 GMT+01:00" name="Surefire test" finished-at="2022-02-02T10:52:07 GMT+01:00" duration-ms="466194">
+      <class name="com.expertteam.ImproveSW.FormationTest">
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:46:10 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:46:15 GMT+01:00" duration-ms="4674" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:46:15 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:46:20 GMT+01:00" duration-ms="5018" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test-logiciels]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tests de Logiciels]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ISTQB®: ISTQB Foundation]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ISTQB Foundation]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:46:20 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:46:20 GMT+01:00" duration-ms="52" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:46:20 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:46:24 GMT+01:00" duration-ms="4636" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:46:24 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:46:30 GMT+01:00" duration-ms="5122" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test-logiciels]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tests de Logiciels]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ISTQB®: ISTQB Test Manager]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ISTQB TEST MANAGER]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:46:30 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:46:30 GMT+01:00" duration-ms="54" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:46:30 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:46:35 GMT+01:00" duration-ms="4934" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:46:35 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:46:40 GMT+01:00" duration-ms="5048" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test-logiciels]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tests de Logiciels]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ISTQB®: Niveau avancé Analyste de test]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ISTQB®: Niveau avancé Analyste de test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:46:40 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:46:40 GMT+01:00" duration-ms="45" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:46:40 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:46:45 GMT+01:00" duration-ms="5224" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:46:45 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:46:50 GMT+01:00" duration-ms="4953" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test-logiciels]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tests de Logiciels]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ISTQB®: Niveau avancé Testeur sécurité]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ISTQB Niveau Avancé Testeur Sécurité]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:46:50 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:46:50 GMT+01:00" duration-ms="42" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:46:50 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:46:55 GMT+01:00" duration-ms="4974" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:46:55 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:47:00 GMT+01:00" duration-ms="5025" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test-logiciels]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tests de Logiciels]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ISTQB®: Niveau avancé Testeur Automaticien]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ISTQB Niveau Avancé Testeur Automaticien]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:47:00 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:47:00 GMT+01:00" duration-ms="41" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:47:00 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:47:05 GMT+01:00" duration-ms="5471" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:47:05 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:47:10 GMT+01:00" duration-ms="5056" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test-logiciels]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tests de Logiciels]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ISTQB®: Testeur Agile]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ISTQB Testeur Agile]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:47:10 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:47:10 GMT+01:00" duration-ms="42" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:47:10 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:47:15 GMT+01:00" duration-ms="4379" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:47:15 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:47:20 GMT+01:00" duration-ms="5066" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test-logiciels]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tests de Logiciels]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ISTQB®: Testeur Automative]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ISTQB Testeur Automative]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:47:20 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:47:20 GMT+01:00" duration-ms="42" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:47:20 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:47:25 GMT+01:00" duration-ms="4982" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:47:25 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:47:30 GMT+01:00" duration-ms="5315" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test-logiciels]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tests de Logiciels]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ISTQB®: Test de performance]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ISTQB Test de performance]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:47:30 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:47:30 GMT+01:00" duration-ms="33" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:47:30 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:47:35 GMT+01:00" duration-ms="5140" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:47:35 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:47:40 GMT+01:00" duration-ms="5020" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test-logiciels]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tests de Logiciels]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ISTQB®: Test d’acceptation]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ISTQB Test d’Acceptation]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:47:40 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:47:40 GMT+01:00" duration-ms="54" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:47:40 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:47:45 GMT+01:00" duration-ms="4376" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:47:45 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:47:50 GMT+01:00" duration-ms="5150" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test-logiciels]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tests de Logiciels]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A4Q Testeur Selenium Niveau Fondation]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Testeur Selenium A4Q Niveau Fondation]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:47:50 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:47:50 GMT+01:00" duration-ms="36" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:47:50 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:47:55 GMT+01:00" duration-ms="4872" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:47:55 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:48:00 GMT+01:00" duration-ms="5458" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test-logiciels]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tests de Logiciels]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Automatisation avec Robot Framework]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Automatisation avec Robot Framework]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:48:00 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:48:00 GMT+01:00" duration-ms="46" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:48:00 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:48:05 GMT+01:00" duration-ms="4864" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:48:05 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:48:11 GMT+01:00" duration-ms="5747" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test-logiciels]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tests de Logiciels]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Test de charge avec JMeter]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tests de charges avec JMeter]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:48:11 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:48:11 GMT+01:00" duration-ms="39" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:48:11 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:48:16 GMT+01:00" duration-ms="4628" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:48:16 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:48:21 GMT+01:00" duration-ms="5140" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test-logiciels]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tests de Logiciels]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Test de charge avec HP LoadRunner]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tests de charges avec HP LoadRunner]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:48:21 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:48:21 GMT+01:00" duration-ms="41" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:48:21 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:48:26 GMT+01:00" duration-ms="4842" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:48:26 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:48:31 GMT+01:00" duration-ms="5129" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test-logiciels]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tests de Logiciels]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ Automatisation avec TestComplete]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[TestComplete ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:48:31 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:48:31 GMT+01:00" duration-ms="38" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:48:31 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:48:36 GMT+01:00" duration-ms="5185" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:48:36 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:48:41 GMT+01:00" duration-ms="5154" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test-logiciels]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tests de Logiciels]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Gestion de projet de test avec Testlink]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Gestion de projet de test avec Testlink]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:48:41 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:48:41 GMT+01:00" duration-ms="42" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:48:41 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:48:46 GMT+01:00" duration-ms="4472" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:48:46 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:48:51 GMT+01:00" duration-ms="5076" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test-logiciels]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tests de Logiciels]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Gestion de projet de test avec SquashTM]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Gestion de projet de test avec SquashTMTestlink]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:48:51 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:48:51 GMT+01:00" duration-ms="52" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:48:51 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:48:56 GMT+01:00" duration-ms="5304" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:48:56 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:49:01 GMT+01:00" duration-ms="5144" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[developpement]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Développement des applications]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Formation certifiante Java 8]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Formation certifiante Java 8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:49:01 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:49:01 GMT+01:00" duration-ms="46" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:49:01 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:49:06 GMT+01:00" duration-ms="4755" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:49:06 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:49:11 GMT+01:00" duration-ms="5210" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[developpement]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Développement des applications]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[OCA Java SE 8 Programmer|Formation Java 8]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[OCA Java SE 8 Programmer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:49:11 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:49:15 GMT+01:00" duration-ms="4061" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:49:15 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:49:20 GMT+01:00" duration-ms="5065" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:49:20 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:49:25 GMT+01:00" duration-ms="5016" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[developpement]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Développement des applications]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Formation Architecture JEE]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Formation Architecture JEE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:49:25 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:49:26 GMT+01:00" duration-ms="42" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:49:26 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:49:30 GMT+01:00" duration-ms="4721" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:49:30 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:49:35 GMT+01:00" duration-ms="4971" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[developpement]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Développement des applications]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Maîtriser le framework Spring 5]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Maîtriser le framework Spring 5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:49:35 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:49:35 GMT+01:00" duration-ms="48" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:49:35 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:49:40 GMT+01:00" duration-ms="5198" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:49:40 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:49:46 GMT+01:00" duration-ms="5379" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[developpement]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Développement des applications]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Formation Python]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Formation Python]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:49:46 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:49:46 GMT+01:00" duration-ms="44" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:49:46 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:49:50 GMT+01:00" duration-ms="4381" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:49:50 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:49:55 GMT+01:00" duration-ms="5135" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[developpement]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Développement des applications]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Formation Angular 2+]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Angular 2+]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:49:55 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:49:55 GMT+01:00" duration-ms="39" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:49:55 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:50:00 GMT+01:00" duration-ms="4510" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:50:00 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:50:05 GMT+01:00" duration-ms="5015" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[developpement]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Développement des applications]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[React JS]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Formation React JS]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:50:05 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:50:05 GMT+01:00" duration-ms="45" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:50:05 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:50:10 GMT+01:00" duration-ms="4631" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:50:10 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:50:15 GMT+01:00" duration-ms="4940" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[management-developpement-personnel]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ingénierie des exigences]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[IQBBA Fondation Analyste Métier ( Business Analyst )]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[IQBBA Fondation Analyste Métier ( Business Analyst )]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:50:15 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:50:15 GMT+01:00" duration-ms="47" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:50:15 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:50:19 GMT+01:00" duration-ms="4491" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:50:19 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:50:23 GMT+01:00" duration-ms="4353" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[management-developpement-personnel]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ingénierie des exigences]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[REQB Fondation ingénierie des exigences]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[REQB Fondation ingénierie des exigences]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:50:23 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:50:24 GMT+01:00" duration-ms="38" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:50:24 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:50:29 GMT+01:00" duration-ms="5844" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:50:29 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:50:34 GMT+01:00" duration-ms="4839" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[management-developpement-personnel]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ingénierie des exigences]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Maîtrise d’ouvrage conduire un projet]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Maîtrise d’ouvrage conduire un projet]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:50:34 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:50:34 GMT+01:00" duration-ms="45" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:50:34 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:50:39 GMT+01:00" duration-ms="4304" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:50:39 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:50:43 GMT+01:00" duration-ms="4727" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[management-developpement-personnel]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ingénierie des exigences]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Design Thinking]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Design Thinking]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:50:43 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:50:43 GMT+01:00" duration-ms="41" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:50:43 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:50:48 GMT+01:00" duration-ms="4560" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:50:48 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:50:52 GMT+01:00" duration-ms="4604" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gestion-de-projets]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Gestion de projets]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Les fondamentaux d’agile: Scrum, Kanban, Lean et XP]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Les fondamentaux d’agile: Scrum, Kanban, Lean et XP]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:50:52 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:50:53 GMT+01:00" duration-ms="50" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:50:53 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:50:59 GMT+01:00" duration-ms="6869" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:50:59 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:51:04 GMT+01:00" duration-ms="4786" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gestion-de-projets]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Gestion de projets]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Profesional Scrum Master Niveau 1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Professional Scrum Master Niveau 1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:51:04 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:51:04 GMT+01:00" duration-ms="34" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:51:04 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:51:09 GMT+01:00" duration-ms="4734" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:51:09 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:51:14 GMT+01:00" duration-ms="4731" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gestion-de-projets]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Gestion de projets]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Profesional Scrum Master Niveau 2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Profesionnal Scrum Master Niveau 2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:51:14 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:51:14 GMT+01:00" duration-ms="43" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:51:14 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:51:19 GMT+01:00" duration-ms="5021" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:51:19 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:51:24 GMT+01:00" duration-ms="4808" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gestion-de-projets]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Gestion de projets]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[DevOps, les fondamentaux]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:51:24 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:51:24 GMT+01:00" duration-ms="33" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:51:24 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:51:29 GMT+01:00" duration-ms="4962" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:51:29 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:51:33 GMT+01:00" duration-ms="4514" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gestion-de-projets]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Gestion de projets]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Piloter un projet avec MS-Project]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Piloter un projet avec MS-Project]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:51:33 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:51:33 GMT+01:00" duration-ms="46" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:51:33 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:51:38 GMT+01:00" duration-ms="4880" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:51:38 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:51:43 GMT+01:00" duration-ms="4543" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gestion-de-projets]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Gestion de projets]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[JIRA pour les équipes Agiles]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[JIRA POUR LES ÉQUIPES AGILES]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:51:43 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:51:43 GMT+01:00" duration-ms="47" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:51:43 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:51:48 GMT+01:00" duration-ms="5583" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:51:48 GMT+01:00" name="formationLink" data-provider="FormationData" finished-at="2022-02-02T10:51:53 GMT+01:00" duration-ms="4412" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gestion-de-projets]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Gestion de projets]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Administration JIRA]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Administration JIRA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formationLink -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887]" started-at="2022-02-02T10:51:53 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:51:53 GMT+01:00" duration-ms="49" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formationLink status=SUCCESS method=FormationTest.formationLink(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.expertteam.ImproveSW.FormationTest@671a5887] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.expertteam.ImproveSW.FormationTest -->
+      <class name="com.expertteam.ImproveSW.DevisTest">
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.DevisTest@87a85e1]" started-at="2022-02-02T10:45:47 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:45:50 GMT+01:00" duration-ms="3122" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="DemandeDevisTest()[pri:0, instance:com.expertteam.ImproveSW.DevisTest@87a85e1]" started-at="2022-02-02T10:45:50 GMT+01:00" name="DemandeDevisTest" finished-at="2022-02-02T10:45:55 GMT+01:00" duration-ms="4579" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Quote Page is opened]]>
+            </line>
+            <line>
+              <![CDATA[Particular is selected]]>
+            </line>
+            <line>
+              <![CDATA[Subject to TVA is selected]]>
+            </line>
+            <line>
+              <![CDATA[Curriculum is selected]]>
+            </line>
+            <line>
+              <![CDATA[The number of participants is entered]]>
+            </line>
+            <line>
+              <![CDATA[Intra-Company is selected]]>
+            </line>
+            <line>
+              <![CDATA[Desired Date is setted]]>
+            </line>
+            <line>
+              <![CDATA[The Full Name is setted]]>
+            </line>
+            <line>
+              <![CDATA[The Phone number is setted]]>
+            </line>
+            <line>
+              <![CDATA[The Email address is setted]]>
+            </line>
+            <line>
+              <![CDATA[The job is selected]]>
+            </line>
+            <line>
+              <![CDATA[The Company title is selected]]>
+            </line>
+            <line>
+              <![CDATA[The contact mail is selected]]>
+            </line>
+            <line>
+              <![CDATA[The contact phone is selected]]>
+            </line>
+            <line>
+              <![CDATA[The direct contact is selected]]>
+            </line>
+            <line>
+              <![CDATA[Send button is clicked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- DemandeDevisTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.DevisTest@87a85e1]" started-at="2022-02-02T10:45:55 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:45:59 GMT+01:00" duration-ms="4066" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=DemandeDevisTest status=SUCCESS method=DevisTest.DemandeDevisTest()[pri:0, instance:com.expertteam.ImproveSW.DevisTest@87a85e1] output=Quote Page is opened]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.DevisTest@87a85e1]" started-at="2022-02-02T10:45:59 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:46:03 GMT+01:00" duration-ms="4274" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="DemandeDevisTestError()[pri:1, instance:com.expertteam.ImproveSW.DevisTest@87a85e1]" started-at="2022-02-02T10:46:03 GMT+01:00" name="DemandeDevisTestError" finished-at="2022-02-02T10:46:06 GMT+01:00" duration-ms="2590" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Quote Page is opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- DemandeDevisTestError -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.DevisTest@87a85e1]" started-at="2022-02-02T10:46:06 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:46:10 GMT+01:00" duration-ms="4062" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=DemandeDevisTestError status=SUCCESS method=DevisTest.DemandeDevisTestError()[pri:1, instance:com.expertteam.ImproveSW.DevisTest@87a85e1] output=Quote Page is opened]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.expertteam.ImproveSW.DevisTest -->
+      <class name="com.expertteam.ImproveSW.SocialMediaTest">
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.SocialMediaTest@5552768b]" started-at="2022-02-02T10:51:53 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:51:56 GMT+01:00" duration-ms="3251" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="FacebookHeaderTest()[pri:0, instance:com.expertteam.ImproveSW.SocialMediaTest@5552768b]" started-at="2022-02-02T10:51:56 GMT+01:00" name="FacebookHeaderTest" finished-at="2022-02-02T10:51:57 GMT+01:00" duration-ms="955" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Facebook Page is opened]]>
+            </line>
+            <line>
+              <![CDATA[Expert Team Tunisie facebook page is opened]]>
+            </line>
+            <line>
+              <![CDATA[Facebook Page is closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- FacebookHeaderTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.SocialMediaTest@5552768b]" started-at="2022-02-02T10:51:57 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:51:57 GMT+01:00" duration-ms="568" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=FacebookHeaderTest status=SUCCESS method=SocialMediaTest.FacebookHeaderTest()[pri:0, instance:com.expertteam.ImproveSW.SocialMediaTest@5552768b] output=Facebook Page is opened]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.SocialMediaTest@5552768b]" started-at="2022-02-02T10:51:57 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:52:01 GMT+01:00" duration-ms="3541" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="InstagramHeaderTest()[pri:0, instance:com.expertteam.ImproveSW.SocialMediaTest@5552768b]" started-at="2022-02-02T10:52:01 GMT+01:00" name="InstagramHeaderTest" finished-at="2022-02-02T10:52:03 GMT+01:00" duration-ms="2024" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Instagram Page is opened]]>
+            </line>
+            <line>
+              <![CDATA[Expert Team Tunisie Instagram page is opened]]>
+            </line>
+            <line>
+              <![CDATA[Instagram Page is closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- InstagramHeaderTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.SocialMediaTest@5552768b]" started-at="2022-02-02T10:52:03 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:52:07 GMT+01:00" duration-ms="4270" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=InstagramHeaderTest status=SUCCESS method=SocialMediaTest.InstagramHeaderTest()[pri:0, instance:com.expertteam.ImproveSW.SocialMediaTest@5552768b] output=Instagram Page is opened]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.expertteam.ImproveSW.SocialMediaTest -->
+      <class name="com.expertteam.ImproveSW.CursusTest">
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.CursusTest@2f465398]" started-at="2022-02-02T10:44:21 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:44:26 GMT+01:00" duration-ms="5157" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="ElementofNosCursusTest()[pri:0, instance:com.expertteam.ImproveSW.CursusTest@2f465398]" started-at="2022-02-02T10:44:26 GMT+01:00" name="ElementofNosCursusTest" finished-at="2022-02-02T10:44:30 GMT+01:00" duration-ms="3312" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la liste de cursus]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ElementofNosCursusTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.CursusTest@2f465398]" started-at="2022-02-02T10:44:30 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:44:34 GMT+01:00" duration-ms="4068" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ElementofNosCursusTest status=SUCCESS method=CursusTest.ElementofNosCursusTest()[pri:0, instance:com.expertteam.ImproveSW.CursusTest@2f465398] output=Le titre correspond avec la liste de cursus]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.CursusTest@2f465398]" started-at="2022-02-02T10:44:34 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:44:38 GMT+01:00" duration-ms="4708" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="SelectTLAofNosCursusTest()[pri:1, instance:com.expertteam.ImproveSW.CursusTest@2f465398]" started-at="2022-02-02T10:44:38 GMT+01:00" name="SelectTLAofNosCursusTest" finished-at="2022-02-02T10:44:45 GMT+01:00" duration-ms="6280" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SelectTLAofNosCursusTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.CursusTest@2f465398]" started-at="2022-02-02T10:44:45 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:44:45 GMT+01:00" duration-ms="50" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SelectTLAofNosCursusTest status=SUCCESS method=CursusTest.SelectTLAofNosCursusTest()[pri:1, instance:com.expertteam.ImproveSW.CursusTest@2f465398] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.CursusTest@2f465398]" started-at="2022-02-02T10:44:45 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:44:48 GMT+01:00" duration-ms="3187" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="cursusTest(java.lang.String,java.lang.String)[pri:2, instance:com.expertteam.ImproveSW.CursusTest@2f465398]" started-at="2022-02-02T10:44:48 GMT+01:00" name="cursusTest" data-provider="CursusData" finished-at="2022-02-02T10:44:52 GMT+01:00" duration-ms="4037" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testeur-logiciel-et-automatisation]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ Testeur logiciel et automatisation]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cursusTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.CursusTest@2f465398]" started-at="2022-02-02T10:44:52 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:44:52 GMT+01:00" duration-ms="49" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=cursusTest status=SUCCESS method=CursusTest.cursusTest(java.lang.String,java.lang.String)[pri:2, instance:com.expertteam.ImproveSW.CursusTest@2f465398] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.CursusTest@2f465398]" started-at="2022-02-02T10:44:52 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:44:57 GMT+01:00" duration-ms="4227" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="cursusTest(java.lang.String,java.lang.String)[pri:2, instance:com.expertteam.ImproveSW.CursusTest@2f465398]" started-at="2022-02-02T10:44:57 GMT+01:00" name="cursusTest" data-provider="CursusData" finished-at="2022-02-02T10:45:01 GMT+01:00" duration-ms="3959" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testeur-automaticien]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ Développeur Full stack JS]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cursusTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.CursusTest@2f465398]" started-at="2022-02-02T10:45:01 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:45:01 GMT+01:00" duration-ms="48" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=cursusTest status=SUCCESS method=CursusTest.cursusTest(java.lang.String,java.lang.String)[pri:2, instance:com.expertteam.ImproveSW.CursusTest@2f465398] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.CursusTest@2f465398]" started-at="2022-02-02T10:45:01 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:45:05 GMT+01:00" duration-ms="4047" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="cursusTest(java.lang.String,java.lang.String)[pri:2, instance:com.expertteam.ImproveSW.CursusTest@2f465398]" started-at="2022-02-02T10:45:05 GMT+01:00" name="cursusTest" data-provider="CursusData" finished-at="2022-02-02T10:45:09 GMT+01:00" duration-ms="3965" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[developpeur-full-stack-js]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[UX/UI Designer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cursusTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.CursusTest@2f465398]" started-at="2022-02-02T10:45:09 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:45:09 GMT+01:00" duration-ms="45" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=cursusTest status=SUCCESS method=CursusTest.cursusTest(java.lang.String,java.lang.String)[pri:2, instance:com.expertteam.ImproveSW.CursusTest@2f465398] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.CursusTest@2f465398]" started-at="2022-02-02T10:45:09 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:45:12 GMT+01:00" duration-ms="3545" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="cursusTest(java.lang.String,java.lang.String)[pri:2, instance:com.expertteam.ImproveSW.CursusTest@2f465398]" started-at="2022-02-02T10:45:12 GMT+01:00" name="cursusTest" data-provider="CursusData" finished-at="2022-02-02T10:45:16 GMT+01:00" duration-ms="3913" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[developpeur-applications-mobiles]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[IT Acquisition Talent]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cursusTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.CursusTest@2f465398]" started-at="2022-02-02T10:45:16 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:45:16 GMT+01:00" duration-ms="46" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=cursusTest status=SUCCESS method=CursusTest.cursusTest(java.lang.String,java.lang.String)[pri:2, instance:com.expertteam.ImproveSW.CursusTest@2f465398] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.CursusTest@2f465398]" started-at="2022-02-02T10:45:16 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:45:19 GMT+01:00" duration-ms="3221" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="cursusTest(java.lang.String,java.lang.String)[pri:2, instance:com.expertteam.ImproveSW.CursusTest@2f465398]" started-at="2022-02-02T10:45:19 GMT+01:00" name="cursusTest" data-provider="CursusData" finished-at="2022-02-02T10:45:24 GMT+01:00" duration-ms="4239" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ux-ui-designer]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Testeur Automatisation]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cursusTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.CursusTest@2f465398]" started-at="2022-02-02T10:45:24 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:45:24 GMT+01:00" duration-ms="49" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=cursusTest status=SUCCESS method=CursusTest.cursusTest(java.lang.String,java.lang.String)[pri:2, instance:com.expertteam.ImproveSW.CursusTest@2f465398] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.CursusTest@2f465398]" started-at="2022-02-02T10:45:24 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:45:27 GMT+01:00" duration-ms="3697" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="cursusTest(java.lang.String,java.lang.String)[pri:2, instance:com.expertteam.ImproveSW.CursusTest@2f465398]" started-at="2022-02-02T10:45:27 GMT+01:00" name="cursusTest" data-provider="CursusData" finished-at="2022-02-02T10:45:32 GMT+01:00" duration-ms="4257" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[marketing-digital]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ Développeur Applications Mobiles]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cursusTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.CursusTest@2f465398]" started-at="2022-02-02T10:45:32 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:45:32 GMT+01:00" duration-ms="34" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=cursusTest status=SUCCESS method=CursusTest.cursusTest(java.lang.String,java.lang.String)[pri:2, instance:com.expertteam.ImproveSW.CursusTest@2f465398] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.CursusTest@2f465398]" started-at="2022-02-02T10:45:32 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:45:36 GMT+01:00" duration-ms="3760" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="cursusTest(java.lang.String,java.lang.String)[pri:2, instance:com.expertteam.ImproveSW.CursusTest@2f465398]" started-at="2022-02-02T10:45:36 GMT+01:00" name="cursusTest" data-provider="CursusData" finished-at="2022-02-02T10:45:40 GMT+01:00" duration-ms="4148" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[responsable-commerciale]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Marketing digital]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cursusTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.CursusTest@2f465398]" started-at="2022-02-02T10:45:40 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:45:40 GMT+01:00" duration-ms="62" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=cursusTest status=SUCCESS method=CursusTest.cursusTest(java.lang.String,java.lang.String)[pri:2, instance:com.expertteam.ImproveSW.CursusTest@2f465398] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpChrome()[pri:0, instance:com.expertteam.ImproveSW.CursusTest@2f465398]" started-at="2022-02-02T10:45:40 GMT+01:00" name="setUpChrome" finished-at="2022-02-02T10:45:43 GMT+01:00" duration-ms="3381" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver got initialized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method signature="cursusTest(java.lang.String,java.lang.String)[pri:2, instance:com.expertteam.ImproveSW.CursusTest@2f465398]" started-at="2022-02-02T10:45:43 GMT+01:00" name="cursusTest" data-provider="CursusData" finished-at="2022-02-02T10:45:47 GMT+01:00" duration-ms="4008" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[it-acquisition-talent-cursus]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Responsable commerciale]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Le titre correspond avec la page en cours]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cursusTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.expertteam.ImproveSW.CursusTest@2f465398]" started-at="2022-02-02T10:45:47 GMT+01:00" name="tearDown" finished-at="2022-02-02T10:45:47 GMT+01:00" duration-ms="49" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=cursusTest status=SUCCESS method=CursusTest.cursusTest(java.lang.String,java.lang.String)[pri:2, instance:com.expertteam.ImproveSW.CursusTest@2f465398] output=Le titre correspond avec la page en cours]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.expertteam.ImproveSW.CursusTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

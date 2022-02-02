@@ -1,0 +1,674 @@
+<html>
+<head>
+<title>TestNG:  Surefire test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Surefire test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>48/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Wed Feb 02 10:44:21 GMT+01:00 2022</td>
+</tr>
+<tr><td>Total time:</td><td>466 seconds (466194 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: test-logiciels, Tests de Logiciels, ISTQB®: Test d’acceptation, ISTQB Test d’Acceptation<br/>
+<a href="#Output-1902545511" onClick='toggleBox("Output-1902545511", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1902545511" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1902545511">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: test-logiciels, Tests de Logiciels,  Automatisation avec TestComplete, TestComplete <br/>
+<a href="#Output-79685693" onClick='toggleBox("Output-79685693", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-79685693" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-79685693">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: test-logiciels, Tests de Logiciels, ISTQB®: Niveau avancé Analyste de test, ISTQB®: Niveau avancé Analyste de test<br/>
+<a href="#Output-2020602090" onClick='toggleBox("Output-2020602090", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2020602090" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2020602090">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: test-logiciels, Tests de Logiciels, ISTQB®: Test de performance, ISTQB Test de performance<br/>
+<a href="#Output-755979402" onClick='toggleBox("Output-755979402", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-755979402" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-755979402">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.CursusTest.cursusTest()'><b>cursusTest</b><br>Test class: com.expertteam.ImproveSW.CursusTest<br>Parameters: responsable-commerciale, Marketing digital<br/>
+<a href="#Output-1901465425" onClick='toggleBox("Output-1901465425", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1901465425" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1901465425">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.expertteam.ImproveSW.CursusTest@2f465398</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.DevisTest.DemandeDevisTest()'><b>DemandeDevisTest</b><br>Test class: com.expertteam.ImproveSW.DevisTest<br/>
+<a href="#Output-1233049719" onClick='toggleBox("Output-1233049719", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1233049719" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1233049719">
+Quote Page is opened<br/>
+Particular is selected<br/>
+Subject to TVA is selected<br/>
+Curriculum is selected<br/>
+The number of participants is entered<br/>
+Intra-Company is selected<br/>
+Desired Date is setted<br/>
+The Full Name is setted<br/>
+The Phone number is setted<br/>
+The Email address is setted<br/>
+The job is selected<br/>
+The Company title is selected<br/>
+The contact mail is selected<br/>
+The contact phone is selected<br/>
+The direct contact is selected<br/>
+Send button is clicked<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.expertteam.ImproveSW.DevisTest@87a85e1</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.CursusTest.cursusTest()'><b>cursusTest</b><br>Test class: com.expertteam.ImproveSW.CursusTest<br>Parameters: testeur-logiciel-et-automatisation,  Testeur logiciel et automatisation<br/>
+<a href="#Output-1917513667" onClick='toggleBox("Output-1917513667", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1917513667" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1917513667">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.expertteam.ImproveSW.CursusTest@2f465398</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: management-developpement-personnel, Ingénierie des exigences, IQBBA Fondation Analyste Métier ( Business Analyst ), IQBBA Fondation Analyste Métier ( Business Analyst )<br/>
+<a href="#Output-1174651922" onClick='toggleBox("Output-1174651922", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1174651922" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1174651922">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: gestion-de-projets, Gestion de projets, Les fondamentaux d’agile: Scrum, Kanban, Lean et XP, Les fondamentaux d’agile: Scrum, Kanban, Lean et XP<br/>
+<a href="#Output-59725469" onClick='toggleBox("Output-59725469", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-59725469" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-59725469">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: test-logiciels, Tests de Logiciels, Automatisation avec Robot Framework, Automatisation avec Robot Framework<br/>
+<a href="#Output-460107127" onClick='toggleBox("Output-460107127", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-460107127" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-460107127">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: test-logiciels, Tests de Logiciels, ISTQB®: Testeur Agile, ISTQB Testeur Agile<br/>
+<a href="#Output-288468653" onClick='toggleBox("Output-288468653", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-288468653" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-288468653">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.CursusTest.cursusTest()'><b>cursusTest</b><br>Test class: com.expertteam.ImproveSW.CursusTest<br>Parameters: marketing-digital,  Développeur Applications Mobiles<br/>
+<a href="#Output-1970518510" onClick='toggleBox("Output-1970518510", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1970518510" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1970518510">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.expertteam.ImproveSW.CursusTest@2f465398</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.SocialMediaTest.InstagramHeaderTest()'><b>InstagramHeaderTest</b><br>Test class: com.expertteam.ImproveSW.SocialMediaTest<br/>
+<a href="#Output-929278717" onClick='toggleBox("Output-929278717", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-929278717" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-929278717">
+Instagram Page is opened<br/>
+Expert Team Tunisie Instagram page is opened<br/>
+Instagram Page is closed<br/>
+</div>
+</td>
+<td></td>
+<td>2</td>
+<td>com.expertteam.ImproveSW.SocialMediaTest@5552768b</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: test-logiciels, Tests de Logiciels, A4Q Testeur Selenium Niveau Fondation, Testeur Selenium A4Q Niveau Fondation<br/>
+<a href="#Output-1195776473" onClick='toggleBox("Output-1195776473", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1195776473" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1195776473">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: management-developpement-personnel, Ingénierie des exigences, Maîtrise d’ouvrage conduire un projet, Maîtrise d’ouvrage conduire un projet<br/>
+<a href="#Output-1618322666" onClick='toggleBox("Output-1618322666", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1618322666" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1618322666">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: developpement, Développement des applications, OCA Java SE 8 Programmer|Formation Java 8, OCA Java SE 8 Programmer<br/>
+<a href="#Output-812381379" onClick='toggleBox("Output-812381379", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-812381379" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-812381379">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: test-logiciels, Tests de Logiciels, Test de charge avec HP LoadRunner, Tests de charges avec HP LoadRunner<br/>
+<a href="#Output-1253641473" onClick='toggleBox("Output-1253641473", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1253641473" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1253641473">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: test-logiciels, Tests de Logiciels, ISTQB®: ISTQB Foundation, ISTQB Foundation<br/>
+<a href="#Output-1910687448" onClick='toggleBox("Output-1910687448", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1910687448" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1910687448">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: gestion-de-projets, Gestion de projets, Profesional Scrum Master Niveau 2, Profesionnal Scrum Master Niveau 2<br/>
+<a href="#Output-1477312973" onClick='toggleBox("Output-1477312973", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1477312973" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1477312973">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.CursusTest.ElementofNosCursusTest()'><b>ElementofNosCursusTest</b><br>Test class: com.expertteam.ImproveSW.CursusTest<br/>
+<a href="#Output-1061913613" onClick='toggleBox("Output-1061913613", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1061913613" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1061913613">
+Le titre correspond avec la liste de cursus<br/>
+</div>
+</td>
+<td></td>
+<td>3</td>
+<td>com.expertteam.ImproveSW.CursusTest@2f465398</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.CursusTest.SelectTLAofNosCursusTest()'><b>SelectTLAofNosCursusTest</b><br>Test class: com.expertteam.ImproveSW.CursusTest<br/>
+<a href="#Output-1449664175" onClick='toggleBox("Output-1449664175", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1449664175" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1449664175">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>6</td>
+<td>com.expertteam.ImproveSW.CursusTest@2f465398</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: test-logiciels, Tests de Logiciels, ISTQB®: ISTQB Test Manager, ISTQB TEST MANAGER<br/>
+<a href="#Output-366513168" onClick='toggleBox("Output-366513168", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-366513168" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-366513168">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: management-developpement-personnel, Ingénierie des exigences, REQB Fondation ingénierie des exigences, REQB Fondation ingénierie des exigences<br/>
+<a href="#Output-602828967" onClick='toggleBox("Output-602828967", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-602828967" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-602828967">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.CursusTest.cursusTest()'><b>cursusTest</b><br>Test class: com.expertteam.ImproveSW.CursusTest<br>Parameters: ux-ui-designer, Testeur Automatisation<br/>
+<a href="#Output-1610014012" onClick='toggleBox("Output-1610014012", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1610014012" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1610014012">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.expertteam.ImproveSW.CursusTest@2f465398</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: test-logiciels, Tests de Logiciels, Gestion de projet de test avec SquashTM, Gestion de projet de test avec SquashTMTestlink<br/>
+<a href="#Output-1660409789" onClick='toggleBox("Output-1660409789", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1660409789" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1660409789">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: gestion-de-projets, Gestion de projets, DevOps, les fondamentaux, <br/>
+<a href="#Output-1045909404" onClick='toggleBox("Output-1045909404", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1045909404" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1045909404">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: gestion-de-projets, Gestion de projets, Piloter un projet avec MS-Project, Piloter un projet avec MS-Project<br/>
+<a href="#Output-430231018" onClick='toggleBox("Output-430231018", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-430231018" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-430231018">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.CursusTest.cursusTest()'><b>cursusTest</b><br>Test class: com.expertteam.ImproveSW.CursusTest<br>Parameters: it-acquisition-talent-cursus, Responsable commerciale<br/>
+<a href="#Output-1520927218" onClick='toggleBox("Output-1520927218", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1520927218" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1520927218">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.expertteam.ImproveSW.CursusTest@2f465398</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: gestion-de-projets, Gestion de projets, Administration JIRA, Administration JIRA<br/>
+<a href="#Output-994588190" onClick='toggleBox("Output-994588190", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-994588190" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-994588190">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.CursusTest.cursusTest()'><b>cursusTest</b><br>Test class: com.expertteam.ImproveSW.CursusTest<br>Parameters: testeur-automaticien,  Développeur Full stack JS<br/>
+<a href="#Output-1487884406" onClick='toggleBox("Output-1487884406", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1487884406" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1487884406">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>3</td>
+<td>com.expertteam.ImproveSW.CursusTest@2f465398</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.CursusTest.cursusTest()'><b>cursusTest</b><br>Test class: com.expertteam.ImproveSW.CursusTest<br>Parameters: developpeur-applications-mobiles, IT Acquisition Talent<br/>
+<a href="#Output-1209358542" onClick='toggleBox("Output-1209358542", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1209358542" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1209358542">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>3</td>
+<td>com.expertteam.ImproveSW.CursusTest@2f465398</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: test-logiciels, Tests de Logiciels, ISTQB®: Testeur Automative, ISTQB Testeur Automative<br/>
+<a href="#Output-435460010" onClick='toggleBox("Output-435460010", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-435460010" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-435460010">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.DevisTest.DemandeDevisTestError()'><b>DemandeDevisTestError</b><br>Test class: com.expertteam.ImproveSW.DevisTest<br/>
+<a href="#Output-1897292616" onClick='toggleBox("Output-1897292616", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1897292616" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1897292616">
+Quote Page is opened<br/>
+</div>
+</td>
+<td></td>
+<td>2</td>
+<td>com.expertteam.ImproveSW.DevisTest@87a85e1</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: test-logiciels, Tests de Logiciels, Test de charge avec JMeter, Tests de charges avec JMeter<br/>
+<a href="#Output-976994522" onClick='toggleBox("Output-976994522", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-976994522" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-976994522">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: developpement, Développement des applications, Formation Angular 2+, Angular 2+<br/>
+<a href="#Output-913564177" onClick='toggleBox("Output-913564177", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-913564177" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-913564177">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: gestion-de-projets, Gestion de projets, JIRA pour les équipes Agiles, JIRA POUR LES ÉQUIPES AGILES<br/>
+<a href="#Output-1174916066" onClick='toggleBox("Output-1174916066", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1174916066" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1174916066">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.SocialMediaTest.FacebookHeaderTest()'><b>FacebookHeaderTest</b><br>Test class: com.expertteam.ImproveSW.SocialMediaTest<br/>
+<a href="#Output-1404402130" onClick='toggleBox("Output-1404402130", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1404402130" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1404402130">
+Facebook Page is opened<br/>
+Expert Team Tunisie facebook page is opened<br/>
+Facebook Page is closed<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.expertteam.ImproveSW.SocialMediaTest@5552768b</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: test-logiciels, Tests de Logiciels, Gestion de projet de test avec Testlink, Gestion de projet de test avec Testlink<br/>
+<a href="#Output-715819458" onClick='toggleBox("Output-715819458", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-715819458" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-715819458">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: management-developpement-personnel, Ingénierie des exigences, Design Thinking, Design Thinking<br/>
+<a href="#Output-1553227495" onClick='toggleBox("Output-1553227495", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1553227495" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1553227495">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: developpement, Développement des applications, Maîtriser le framework Spring 5, Maîtriser le framework Spring 5<br/>
+<a href="#Output-1616161824" onClick='toggleBox("Output-1616161824", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1616161824" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1616161824">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.CursusTest.cursusTest()'><b>cursusTest</b><br>Test class: com.expertteam.ImproveSW.CursusTest<br>Parameters: developpeur-full-stack-js, UX/UI Designer<br/>
+<a href="#Output-843410864" onClick='toggleBox("Output-843410864", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-843410864" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-843410864">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>3</td>
+<td>com.expertteam.ImproveSW.CursusTest@2f465398</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: developpement, Développement des applications, Formation Python, Formation Python<br/>
+<a href="#Output-410908040" onClick='toggleBox("Output-410908040", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-410908040" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-410908040">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: developpement, Développement des applications, Formation Architecture JEE, Formation Architecture JEE<br/>
+<a href="#Output-746359178" onClick='toggleBox("Output-746359178", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-746359178" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-746359178">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: test-logiciels, Tests de Logiciels, ISTQB®: Niveau avancé Testeur Automaticien, ISTQB Niveau Avancé Testeur Automaticien<br/>
+<a href="#Output-1884568750" onClick='toggleBox("Output-1884568750", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1884568750" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1884568750">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: test-logiciels, Tests de Logiciels, ISTQB®: Niveau avancé Testeur sécurité, ISTQB Niveau Avancé Testeur Sécurité<br/>
+<a href="#Output-715950807" onClick='toggleBox("Output-715950807", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-715950807" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-715950807">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: developpement, Développement des applications, Formation certifiante Java 8, Formation certifiante Java 8<br/>
+<a href="#Output-1689211988" onClick='toggleBox("Output-1689211988", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1689211988" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1689211988">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: gestion-de-projets, Gestion de projets, Profesional Scrum Master Niveau 1, Professional Scrum Master Niveau 1<br/>
+<a href="#Output-205284289" onClick='toggleBox("Output-205284289", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-205284289" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-205284289">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+<tr>
+<td title='com.expertteam.ImproveSW.FormationTest.formationLink()'><b>formationLink</b><br>Test class: com.expertteam.ImproveSW.FormationTest<br>Parameters: developpement, Développement des applications, React JS, Formation React JS<br/>
+<a href="#Output-1669950711" onClick='toggleBox("Output-1669950711", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1669950711" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1669950711">
+Le titre correspond avec la page en cours<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.expertteam.ImproveSW.FormationTest@671a5887</td></tr>
+</table><p>
+</body>
+</html>

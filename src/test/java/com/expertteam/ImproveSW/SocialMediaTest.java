@@ -50,6 +50,8 @@ public class SocialMediaTest extends Base{
 			}
 		}
 	}
+	
+	//Test Instagram
 	@Test
 	public void InstagramHeaderTest() {
 		PageObjectSocialMedia.getInstagramHeader().click();
