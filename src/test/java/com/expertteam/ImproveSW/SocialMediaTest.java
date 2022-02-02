@@ -27,7 +27,7 @@ public class SocialMediaTest extends Base{
 		Reporter.log("Driver got initialized",true);
 
 	}
-
+// Test Facebook
 	@Test
 	public void FacebookHeaderTest() {
 		PageObjectSocialMedia.getFacebookHeader().click();

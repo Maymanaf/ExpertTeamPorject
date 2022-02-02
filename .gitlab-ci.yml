@@ -1,4 +1,4 @@
-ImproveSW-job:
+ImproveSW:
   stage: test
   tags:
     - ci
