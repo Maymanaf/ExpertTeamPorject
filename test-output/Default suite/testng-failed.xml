@@ -3,13 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.expertteam.ImproveSW.SocialMediaTest">
+      <class name="com.expertteam.ImproveSW.CursusTest">
         <methods>
-          <include name="setUpChrome"/>
           <include name="tearDown"/>
-          <include name="SocialMediaHeaderTest"/>
+          <include name="SelectTLAofNosCursusTest"/>
+          <include name="cursusTest"/>
+          <include name="setUpChrome"/>
         </methods>
-      </class> <!-- com.expertteam.ImproveSW.SocialMediaTest -->
+      </class> <!-- com.expertteam.ImproveSW.CursusTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

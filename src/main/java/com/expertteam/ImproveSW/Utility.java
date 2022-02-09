@@ -3,14 +3,12 @@ package com.expertteam.ImproveSW;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
-import java.io.IOException;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.poi.hssf.usermodel.HSSFCell;
 import org.apache.poi.hssf.usermodel.HSSFRow;
 import org.apache.poi.hssf.usermodel.HSSFSheet;
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
-import org.apache.poi.ss.usermodel.DataFormatter;
 import org.openqa.selenium.By;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
@@ -64,60 +62,60 @@ public class Utility {
 
 
 
-	// get the number of rows in excel file 
-	public static int getRowCount(String path, String sheetName) throws IOException { 
-		fileInput = new FileInputStream(path);
-		workBook=new HSSFWorkbook(fileInput);
-		sheet=workBook.getSheet(sheetName);
-		int rowCount = sheet.getLastRowNum();
-		workBook.close(); 
-		fileInput.close(); 
-		return rowCount; 
-	} 
-	// get the number of cells in excel file 
-	public static int getColCount(String path, String sheetName, int rowNum) throws IOException { 
-		fileInput = new FileInputStream(path); 
-		workBook=new HSSFWorkbook(fileInput);
-		sheet=workBook.getSheet(sheetName);
-		row =sheet.getRow(rowNum); int colCount =
-				row.getLastCellNum(); 
-		workBook.close(); 
-		return colCount; } 
-	// Get the data from excel
-	public static String getCellData(String path, String sheetName ,int rowNum, int colNum) throws IOException { 
-		fileInput = new FileInputStream(path); 
-		workBook=new HSSFWorkbook(fileInput);
-		sheet=workBook.getSheet(sheetName);
-		row =sheet.getRow(rowNum);
-		cell=row.getCell(rowNum); 
-		DataFormatter formatter = new DataFormatter();
-		String data; 
-		try { 
-			data= formatter.formatCellValue(cell); 
-		} 
-		catch (Exception e)
-		{
-			data = "";
-		} 
-		fileInput.close(); 
-		workBook.close(); 
-		return data; }
-
-	// Set the data in excel 
-	public void setCellData(String path, String sheetName , int rowNum, int colNum, String data) throws IOException {
-		fileInput = new FileInputStream(path); 
-		workBook=new HSSFWorkbook(fileInput);
-		sheet=workBook.getSheet(sheetName); 
-		row =sheet.getRow(rowNum);
-		cell=row.createCell(colNum); 
-		cell.setCellValue(data);
-
-		fileOutput = new FileOutputStream(path);
-		workBook.write(fileOutput);
-		workBook.close();
-		fileInput.close(); 
-		fileOutput.close(); 
-	}
+//	// get the number of rows in excel file 
+//	public static int getRowCount(String path, String sheetName) throws IOException { 
+//		fileInput = new FileInputStream(path);
+//		workBook=new HSSFWorkbook(fileInput);
+//		sheet=workBook.getSheet(sheetName);
+//		int rowCount = sheet.getLastRowNum();
+//		workBook.close(); 
+//		fileInput.close(); 
+//		return rowCount; 
+//	} 
+//	// get the number of cells in excel file 
+//	public static int getColCount(String path, String sheetName, int rowNum) throws IOException { 
+//		fileInput = new FileInputStream(path); 
+//		workBook=new HSSFWorkbook(fileInput);
+//		sheet=workBook.getSheet(sheetName);
+//		row =sheet.getRow(rowNum); int colCount =
+//				row.getLastCellNum(); 
+//		workBook.close(); 
+//		return colCount; } 
+//	// Get the data from excel
+//	public static String getCellData(String path, String sheetName ,int rowNum, int colNum) throws IOException { 
+//		fileInput = new FileInputStream(path); 
+//		workBook=new HSSFWorkbook(fileInput);
+//		sheet=workBook.getSheet(sheetName);
+//		row =sheet.getRow(rowNum);
+//		cell=row.getCell(rowNum); 
+//		DataFormatter formatter = new DataFormatter();
+//		String data; 
+//		try { 
+//			data= formatter.formatCellValue(cell); 
+//		} 
+//		catch (Exception e)
+//		{
+//			data = "";
+//		} 
+//		fileInput.close(); 
+//		workBook.close(); 
+//		return data; }
+//
+//	// Set the data in excel 
+//	public void setCellData(String path, String sheetName , int rowNum, int colNum, String data) throws IOException {
+//		fileInput = new FileInputStream(path); 
+//		workBook=new HSSFWorkbook(fileInput);
+//		sheet=workBook.getSheet(sheetName); 
+//		row =sheet.getRow(rowNum);
+//		cell=row.createCell(colNum); 
+//		cell.setCellValue(data);
+//
+//		fileOutput = new FileOutputStream(path);
+//		workBook.write(fileOutput);
+//		workBook.close();
+//		fileInput.close(); 
+//		fileOutput.close(); 
+//	}
 
 
 }

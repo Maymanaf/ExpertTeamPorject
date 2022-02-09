@@ -47,7 +47,7 @@ public class CursusTest extends Base{
 		action.moveToElement(PageObjectCursus.getCursusPage()).build().perform();;
 		Thread.sleep(3000);
 		List<WebElement> ExpertTeamLinks = PageObjectCursus.getListofLinks();
-		List<String> ExpertTeamTexts = ExpertTeamLinks.stream().map(WebElement::getText).collect(Collectors.toList());
+		List<Object> ExpertTeamTexts = ExpertTeamLinks.stream().map(WebElement::getText).collect(Collectors.toList());
 		Assert.assertEquals(ExpertTeamTexts, CursusList, "Element(s) are not the same");
 		Reporter.log("Le titre correspond avec la liste de cursus",true);
 	}
@@ -106,6 +106,7 @@ public class CursusTest extends Base{
 			Utility.captureScreenshot(driver, result.getName()+"_"+result.getEndMillis());
 		}
 		driver.close();
+		driver.quit();
 		Reporter.log("Browser closed",true);
 	}
 }

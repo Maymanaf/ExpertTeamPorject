@@ -4,6 +4,7 @@ import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
@@ -15,11 +16,16 @@ public class Base {
 
 		// Initialize browser
 		WebDriverManager.chromedriver().setup();
-		driver = new ChromeDriver();
+		ChromeOptions options = new ChromeOptions();
+       // Run Project headless for compatibility with Git
+		options.addArguments("--headless", "--disable-gpu", "--window-size=1920,1200", "--ignore-certificate-errors",
+				"--disable-extensions", "--no-sandbox", "--disable-dev-shm-usage");
+		driver = new ChromeDriver(options);
 		driver.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
 		// Maximize browser
 		driver.manage().window().maximize(); 
 		//Open Website
+
 		driver.get(baseUrl);
 
 
