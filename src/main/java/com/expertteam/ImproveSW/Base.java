@@ -17,7 +17,6 @@ public class Base {
 		// Initialize browser
 		WebDriverManager.chromedriver().setup();
 		ChromeOptions options = new ChromeOptions();
-       // Run Project headless for compatibility with Git
 		options.addArguments("--headless", "--disable-gpu", "--window-size=1920,1200", "--ignore-certificate-errors",
 				"--disable-extensions", "--no-sandbox", "--disable-dev-shm-usage");
 		driver = new ChromeDriver(options);
